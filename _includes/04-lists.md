@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+1. flowers
+2. vegetables
+3. fruits
+   1. mango
+   2. apple
+* animals
+* birds
+* vehicles
+  * car
+  * bike
+  * ♥️
